@@ -1,6 +1,6 @@
-# Dwarf Fortress (CyberStakes 2017 -> Hackcenter)\
+# Dwarf Fortress (CyberStakes 2017 -> Hackcenter)
+---
 This problem highlights host based forensics when it comes to different files expect anything. Also slightly relates to reversing and binary exploitation.
-<br />
 ---
 The challenge gives us an executable(linked above) and asks us to find the function name for a varibale named flag.
 <br />
