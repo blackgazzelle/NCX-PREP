@@ -12,7 +12,7 @@ With further reading we see that elf is a linking and compiling format used back
 <br />
 
 What is the info we want to see? How do we do this?
-So if we `warfdump dwarf_fortress | less` we get this:
+So if we `dwarfdump dwarf_fortress | less` we get this:
 ![](dwarfdump.png)
 <br />
 If we search for flag we are given this output. How do we read this what does it mean?:
