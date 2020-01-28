@@ -5,7 +5,7 @@ The challenge gives us an executable(linked above) and asks us to find the funct
 
 ---
 If we `file dwarf_fortress`, it gives us this output:
-![](/file.png)
+![](/out.png)
 
 <br />
 With further reading we see that elf is a linking and compiling format used back in the day. The hint given is how can we read the DWARF debugging inforamtion. There just so happens to be a handy  tool called dwarfdump that will give us the debugged information from elf compiled programs.
