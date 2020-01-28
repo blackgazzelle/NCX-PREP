@@ -18,4 +18,4 @@ So if we `warfdump dwarf_fortress | less` we get this:
 If we search for flag we are given this output. How do we read this what does it mean?:
 ![](flagsearch.png)
 <br />
-So if you don't know the formatting goes in level the first level is the function info and subsequent levels describe variables. So you can then easily find the name of the function which is: sub_f016339eebb3
+So if you don't know the formatting goes in level the first level is the function info and subsequent levels describe variables. So you can then easily find the name of the function which is: **sub_f016339eebb3**
