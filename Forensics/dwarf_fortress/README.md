@@ -19,3 +19,7 @@ If we search for flag we are given this output. How do we read this what does it
 ![](flagsearch.png)
 <br />
 So if you don't know the formatting goes in level the first level is the function info and subsequent levels describe variables. So you can then easily find the name of the function which is: **sub_f016339eebb3**
+<br />
+*Fun Fact*
+<br />
+This problem is a reference to the game dwarf fortress from the early 2000s!
