@@ -16,10 +16,10 @@ So what are some standard tools for qcow files? One is qemu(you may have to isnt
 If we run `qemu-img convert qcow1.qcow test.raw` then we will get a raw image that is is formatted more friendly and now
 if you `xxd` or `strings` the file you will get the flag: **qcow_says_qemoo_4BEdDAAD0aDbd2E1a6c01B3eb6A7D8a6**
 ---
-**xxd Output**
+**xxd Output**<br />
 ![xxd.png]
 ---
-**Strings Output**
+**Strings Output**<br />
 ![stringraw.png]
 <br />
 ---
