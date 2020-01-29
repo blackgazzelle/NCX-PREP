@@ -13,7 +13,7 @@ gives some weird input.<br />
 
 **For Example:**<br />
 The output of `strings qcow1.qcow` is:
-![string.png]
+![](string.png)
 
 So what are some standard tools for qcow files? One is qemu(you may have to isntall it)<br />
 If we run `qemu-img convert qcow1.qcow test.raw` then we will get a raw image that is is formatted more friendly and now
@@ -21,11 +21,11 @@ if you `xxd` or `strings` the file you will get the flag: **qcow_says_qemoo_4BEd
 
 ---
 **xxd Output**<br />
-![xxd.png]
+![](xxd.png)
 
 ---
 **Strings Output**<br />
-![stringraw.png]
+![](stringraw.png)
 <br />
 ---
 
