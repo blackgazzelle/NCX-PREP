@@ -1,4 +1,4 @@
-#QCOW(Cyberstakes 2017 -> HackCenter)
+# QCOW(Cyberstakes 2017 -> HackCenter)
 The problem gives us a qcow2 disk image and only says *MOO?* <br />
 **The Takeaway**<br />
 Good to help understand what disk images are and to get into the basics of foresnics thought process.<br />
